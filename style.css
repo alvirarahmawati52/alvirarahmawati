@@ -53,3 +53,9 @@ section {
 footer {
   background-color: #ffa07a;
 }
+
+body,
+html {
+  width: 100%;
+  overflow-x: hidden;
+}
